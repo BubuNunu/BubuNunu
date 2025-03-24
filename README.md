@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @BubuNunu
-- 👀 I’m interested in geovisualization.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Lumax
+- 👀 I’m interested in geovisualization, LLM.
+- 🌱 I’m currently learning LLM
+- 💞️ I’m looking to collaborate on LLM projects.
 - 📫 How to reach me : rzhan100@asu.edu
 
-<!---
-BubuNunu/BubuNunu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
